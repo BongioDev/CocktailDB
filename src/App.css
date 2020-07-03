@@ -1,0 +1,21 @@
+#nav {
+  background: rgb(224,49,49);
+  background: linear-gradient(90deg, rgba(224,49,49,0.7682423311121324) 29%, rgba(91,184,244,1) 100%);
+}
+
+#root {
+  min-height: 1000px;
+  background-color:#ffe0f9;
+  font-family: 'MuseoModerno', cursive;
+}
+
+.about {
+  border: 1.5px solid rgba(224,49,49,0.7682423311121324);
+  border-radius:10px;
+}
+
+.card:hover {
+  background-color: grey;
+  color: white;
+  transition: 0.6s;
+}
